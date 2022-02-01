@@ -17,3 +17,5 @@ vendor
 vim.py
 vim_session_*.vim
 __*/
+# ignore commit message
+.gitcommit
